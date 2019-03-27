@@ -1,3 +1,9 @@
 # Face_Detection_Recognition
 
-###This Repository contains codes for cropping images, face_detecting, face_recognition, Vgg16 layer, Vgg19 layer
+### [This Repository contains codes]  
+cropping images  
+face_detecting  
+face_recognition  
+Vgg-16 layer  
+Vgg-19 layer
+
