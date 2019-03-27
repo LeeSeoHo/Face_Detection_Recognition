@@ -6,3 +6,6 @@
 #### If the webcam detect the face, the code will save the cropped image like the picture below.  
 <img src="./output_for_code.png" width=50%/>
 
+
+Run Code : python face_detecting_using_webcam.py
+

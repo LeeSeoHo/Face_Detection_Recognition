@@ -1,4 +1,7 @@
-# Face_Detection_Recognition
+# Face_Detection_Recognition  
+
+#### python 3.6, Tensorflow GPU
+
 
 ### [This Repository contains codes]  
 cropping images  
