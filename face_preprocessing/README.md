@@ -1,4 +1,4 @@
-# Face_Detection_Recognition  
+# Histogram Equalization  
 
 #### python 3.6, Tensorflow GPU
 
